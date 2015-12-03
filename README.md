@@ -9,11 +9,14 @@ TBD
 
 ## Project Goals
 ### Software
-1. Do this
-2. Do that
+1. Read PIR motion sensor state, display result via serial (Motion / No Motion)
+2. Connect ESP8266 to local WiFi Network
+3. Create Deep Sleep function for ESP8266
+3. Setup Phant on RaspPi
+4.  
 
 ### Hardware
-1. Do this
+1. 
 2. Do that
 
 ## Contributing
