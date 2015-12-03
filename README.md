@@ -14,6 +14,6 @@ TBD
 ## History
 TODO: Write history
 ## Credits
-TODO: Write credits
+My pet gold fish, Gary.
 ## License
-TODO: Write license
+GNU General Public License v2
