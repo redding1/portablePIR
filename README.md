@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Portable PIR WiFi Sensor}
+#Portable PIR WiFi Sensor
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
@@ -18,6 +16,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
