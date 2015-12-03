@@ -1,5 +1,5 @@
 #Portable PIR WiFi Sensor
-TODO: Write a project description
+A small and portable motion sensor for IoT applications.
 ## Installation
 TODO: Describe the installation process
 ## Usage
