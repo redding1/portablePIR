@@ -1,1 +1,3 @@
-Hi
+*Portable PIR WiFi Sensor
+
+Project Aims
