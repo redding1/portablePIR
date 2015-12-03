@@ -1,9 +1,9 @@
 #Portable PIR WiFi Sensor
 A small and portable motion sensor for IoT applications.
 ## Installation
-TODO: Describe the installation process
+TBD
 ## Usage
-TODO: Write usage instructions
+TBD
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
