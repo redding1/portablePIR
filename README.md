@@ -13,11 +13,14 @@ TBD
 2. Connect ESP8266 to local WiFi Network
 3. Create Deep Sleep function for ESP8266
 3. Setup Phant on RaspPi
-4.  
+4. Send Motion/No Motion to RaspPi from ESP8266
+5. 
 
 ### Hardware
-1. 
-2. Do that
+1. Test software on breadboard @ 3V3
+2. Implement Battery. 3xAAA (4V5), with 3V3 LDO @ 2500mAh OR Li-Ion (3V7) with 3V3 LDO
+3. 
+4. Do that
 
 ## Contributing
 1. Fork it!
